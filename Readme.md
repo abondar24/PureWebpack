@@ -1,4 +1,4 @@
-#Pure Webpack
+# Pure Webpack
 
 Dummy clean webpack config without any framework usage. Helps to understand how webpack works in general and why is it needed.
 
